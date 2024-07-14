@@ -22,7 +22,7 @@ with col2:
     outputTextArea = st.empty()
 
 # Configure the AI model with the provided API key
-genai.configure(api_key="AIzaSyDnxEhfH6YpIibS2esVEJMyL6LeMFW6Ka0")
+genai.configure(api_key="api-key")
 model = genai.GenerativeModel('gemini-1.5-flash')
 
 # Initialize video capture and hand detector
