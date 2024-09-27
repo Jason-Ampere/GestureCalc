@@ -39,7 +39,7 @@
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/GestureCalc.git
+    git clone https://github.com/Jason-Ampere/GestureCalc.git
     cd GestureCalc
     ```
 
